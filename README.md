@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-A data science project analyzing what factors influenced passenger survival on the Titanic, built as a recap of core Data Science 1 concepts (EDA, data cleaning, visualization, and classification modeling).
+A data science project analyzing what factors influenced passenger survival on the Titanic, covering EDA, data cleaning, visualization, and classification modeling.
 
 ## Problem Statement
 
